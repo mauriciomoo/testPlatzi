@@ -9,6 +9,10 @@ h1 {
 }
 
 p {
+<<<<<<< HEAD
     color: darkcyan;
+=======
+    color: black;
+>>>>>>> cabecera
     font-weight: bold;
 }
