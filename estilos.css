@@ -3,3 +3,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: beige;
 }
+
+h1 {
+    color:darkblue;
+}
+
+p {
+    color: red;
+    font-weight: bold;
+}
